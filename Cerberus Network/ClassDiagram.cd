@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Cerberus_Network.Chat" Collapsed="true">
+    <Position X="3.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JQigI4kYJCAIAAEGACDAAUACBggEAAAECEgwBAAAAJQ=</HashCode>
+      <FileName>Chat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cerberus_Network.History" Collapsed="true">
+    <Position X="5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQIAAACAAABAAAACAAAACAAgAAAACACAAAAkAAAA=</HashCode>
+      <FileName>History.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cerberus_Network.MainForm" Collapsed="true">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BRQgAQSACGQiIAQKAECCEwACyAAEkAAAAKAQAAAAIIg=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cerberus_Network.NewBroker" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAACAAIigIAACCAQACBCAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>NewBroker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cerberus_Network.RadForm1" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACCAQAAAAACAAAACAAEAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>RadForm1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cerberus_Network.Settings" Collapsed="true">
+    <Position X="1.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAggAAgIICAAAAAAACCAAAACAQEAAACFAAhAAIAAAQQ=</HashCode>
+      <FileName>Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cerberus_Network._01nDataSet" Collapsed="true">
+    <Position X="1.5" Y="2.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Cerberus_Network._01nDataSet._Место_торгов_RowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Cerberus_Network._01nDataSet._Место_торгов_RowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Cerberus_Network._01nDataSet.ПосредникиRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Cerberus_Network._01nDataSet._Депозитарии_DataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet._Облигации_RowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet._Справочник_операций_RowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet._Место_торгов_Row" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet._Доллар_RowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Cerberus_Network._01nDataSet.Журнал_операцийRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Cerberus_Network._01nDataSet._Доллар_Row" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet.EnranceRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet.Журнал_операцийRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Cerberus_Network._01nDataSet._Акции_RowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Cerberus_Network._01nDataSet.Журнал_операцийDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet._Эмитенты_DataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet._Инвесторы_RowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet.Журнал_операцийRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet._Облигации_DataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Cerberus_Network._01nDataSet.History_messageRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Cerberus_Network._01nDataSet._Акции_Row" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet._Доллар_DataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet._Инвесторы_DataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Cerberus_Network._01nDataSet._Инвесторы_RowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Cerberus_Network._01nDataSet.Дата_операцииRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet.ПосредникиRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet.EnranceDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Cerberus_Network._01nDataSet.Дата_операцииRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Delegate Name="Cerberus_Network._01nDataSet._Эмитенты_RowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Cerberus_Network._01nDataSet.History_messageDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet._Эмитенты_RowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet._Инвесторы_Row" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet.History_messageRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Cerberus_Network._01nDataSet.EnranceRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Cerberus_Network._01nDataSet._Облигации_Row" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet._Место_торгов_DataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet.History_messageRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Cerberus_Network._01nDataSet._Депозитарии_RowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Cerberus_Network._01nDataSet._Справочник_операций_DataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet._Депозитарии_Row" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet.ПосредникиRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet._Акции_RowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet.ПосредникиDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet.Дата_операцииDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet.Дата_операцииRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet.EnranceRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet._Эмитенты_Row" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Cerberus_Network._01nDataSet._Облигации_RowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Delegate Name="Cerberus_Network._01nDataSet._Доллар_RowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Cerberus_Network._01nDataSet._Депозитарии_RowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Cerberus_Network._01nDataSet._Справочник_операций_Row" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Cerberus_Network._01nDataSet._Справочник_операций_RowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Cerberus_Network._01nDataSet._Акции_DataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>JCAEgZBGWwAAIAJRhCgvRCBMgAkyQBgKAXAgAAEIBrU=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cerberus_Network._01nDataSetTableAdapters.EnranceTableAdapter" Collapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cerberus_Network._01nDataSetTableAdapters.History_messageTableAdapter" Collapsed="true">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAgAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cerberus_Network._01nDataSetTableAdapters.Акции_TableAdapter" Collapsed="true">
+    <Position X="1.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cerberus_Network._01nDataSetTableAdapters.Дата_операцииTableAdapter" Collapsed="true">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cerberus_Network._01nDataSetTableAdapters.Депозитарии_TableAdapter" Collapsed="true">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cerberus_Network._01nDataSetTableAdapters.Доллар_TableAdapter" Collapsed="true">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cerberus_Network._01nDataSetTableAdapters.Журнал_операцийTableAdapter" Collapsed="true">
+    <Position X="1.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cerberus_Network._01nDataSetTableAdapters.Инвесторы_TableAdapter" Collapsed="true">
+    <Position X="3.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cerberus_Network._01nDataSetTableAdapters.Место_торгов_TableAdapter" Collapsed="true">
+    <Position X="5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cerberus_Network._01nDataSetTableAdapters.Облигации_TableAdapter" Collapsed="true">
+    <Position X="6.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cerberus_Network._01nDataSetTableAdapters.ПосредникиTableAdapter" Collapsed="true">
+    <Position X="1.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cerberus_Network._01nDataSetTableAdapters.Справочник_операций_TableAdapter" Collapsed="true">
+    <Position X="3.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cerberus_Network._01nDataSetTableAdapters.Эмитенты_TableAdapter" Collapsed="true">
+    <Position X="5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cerberus_Network._01nDataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SQABSCAAAABAFQEhSgIAMAAgAAgS0AQAABUAAEAQJgU=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cerberus_Network.DAL" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAYQAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>DAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
